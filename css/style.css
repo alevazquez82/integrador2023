@@ -62,6 +62,30 @@ a.conferencia:hover {
     border: 1px solid rgba(0,0,0,.125);
 }
 
+.btn-warning{
+    font-weight: 750;
+    padding: 2px;
+    font-size: 12px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.btn-primary{
+    font-weight: 750;
+    padding: 3px; 
+    font-size: 12px; 
+    padding-top: 1px; 
+    padding-bottom: 1px;
+}
+
+.btn-danger{
+    font-weight: 750; 
+    padding: 3px; 
+    font-size: 12px; 
+    padding-top: 1px; 
+    padding-bottom: 1px;
+}
+
 .container {
     margin-top: 20px;
     padding-left: 0%;
